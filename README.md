@@ -1,6 +1,7 @@
 ### Hi there 👋
-I'm Sukhdeep Singh 
-Student at [**Punjab Engineering College**](https://pec.ac.in/)
+-I'm Sukhdeep Singh 
+
+-Student at [**Punjab Engineering College**](https://pec.ac.in/)
 
 <!--
 **sukhsidhu3287/sukhsidhu3287** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
